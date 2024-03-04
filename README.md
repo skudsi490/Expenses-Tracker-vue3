@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/personal-expense-tracker.git
+git clone https://github.com/skudsi490/Expenses-Tracker-vue3.git
 
 
 2. Navigate to the project directory:
@@ -54,9 +54,6 @@ To delete a transaction, click the 'x' button next to the transaction you wish t
 Vue.js - The Progressive JavaScript Framework.
 Vite - Frontend Tooling.
 vue-toastification - Toast library for Vue.js.
-
-### Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
 ### Authors
 Sami Kudsi - Initial work - skudsi490
